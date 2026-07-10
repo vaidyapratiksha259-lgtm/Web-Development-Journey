@@ -20,20 +20,20 @@
                 <tbody>
                     <tr>
                         <td><label for="sname">Enter Name : </label></td>
-                        <td><input type="text" name="sname" value="" /></td>
+                        <td><input type="text" name="stud-name" value="" /></td>
                     </tr>
                     <tr>
                         <td><label for="srollno">Enter Roll No. : </label></td>
-                        <td><input type="text" name="srollno" value="" /></td>
+                        <td><input type="text" name="stud-rollno" value="" /></td>
                     </tr>
                     <tr>
                         <td><label for="sgender">Select Gender : </label></td>
-                        <td><input type="radio" name="Gender" value="Male" />Male<br><!-- comment -->
-                            <input type="radio" name="Gender" value="Female" />Female</td>
+                        <td><input type="radio" name="stud-gender" value="Male" />Male<br><!-- comment -->
+                            <input type="radio" name="stud-gender" value="Female" />Female</td>
                     </tr>
                     <tr>
                         <td><label for="sbranch">Select Branch : </label></td>
-                        <td><select name="sbranch">
+                        <td><select name="stud-branch">
                                 <option value="CSE">CSE</option>
                                 <option value="IT">IT</option>
                                 <option value="AIDS">AIDS</option>
